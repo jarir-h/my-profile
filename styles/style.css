@@ -55,8 +55,12 @@ body{
     margin: 100px 250px;
     gap: 90px;
 }
-.body-img img{
+/* .body-img img{
     border-radius: 50%;
+    background: rgba(241, 91, 34, 0.20);
+} */
+.body-img{
+    border-radius: 50%;    
     background: rgba(241, 91, 34, 0.20);
 }
 .body-text{
